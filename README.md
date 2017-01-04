@@ -1,4 +1,4 @@
-# SpringBoot - alterado novamente mais uma vez novamente denovo
+# SpringBoot - alterado novamente mais uma vez novamente denovo mais outra vez
 
 Aplicação Web com Spring e módulos: **Data** e **Security**.
 
